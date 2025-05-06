@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 Soy Ingeniero de Computación y Sistemas<br>Apacionado por los datos<br>Curiosidad por IA
 
 
-## 🌐 Socials:
+## 🌐 Encúentrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wildercorreas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:willycorreas@gmail.com) 
 
 # 💻 Tech Stack:
